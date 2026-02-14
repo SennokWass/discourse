@@ -14,7 +14,7 @@ Discourse is a 100% open-source community platform for those who want complete c
 
 Our platform has been battle-tested for over a decade and continues to evolve to meet users’ needs for a powerful community platform. 
 
-**With Discourse, you can:**
+**With Discourse, you can:**.
 
 * 💬 **Create discussion topics** to foster meaningful conversations.
 
